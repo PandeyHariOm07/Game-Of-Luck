@@ -1,0 +1,24 @@
+body {
+    background-image: url("image/bg.jpg");
+    text-align: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: 'Limelight', cursive;
+}
+.dice{
+    text-align: center;
+}
+img{
+    background-color: white;
+}
+h1{
+    font-size: 7rem;
+    margin-top: 6%;
+}
+.row{
+    margin: 10%;
+}
+h3{
+    margin-bottom: 8%;
+}
